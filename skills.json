@@ -12,6 +12,10 @@
         "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
     },
     {
+        "name": "TypeScript",
+        "icons": "https://icons8.com/icon/vMqgHSToxrJR/typescript"
+    },
+    {
         "name": "Firebase",
         "icon": "https://img.icons8.com/color/48/000000/firebase.png"
     },
@@ -86,5 +90,9 @@
     {
         "name": "GitHub",
         "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://icons8.com/icon/33039/amazon-web-services"
     }
 ]
