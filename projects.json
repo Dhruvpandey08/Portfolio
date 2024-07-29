@@ -2,7 +2,7 @@
   {
     "name": "Jobs4You",
     "desc": "Jobs4You is a platform to streamline the job application process for both applicant and recruiter.",
-    "image": "jobs4you",
+    "image": "jobs",
     "links": {
       "view": "https://jobpulse-frontend.onrender.com/",
       "code": "https://github.com/Dhruvpandey08/Jobs4You"
