@@ -1,5 +1,14 @@
 [
   {
+    "name": "Jobs4You",
+    "desc": "Jobs4You is a platform to streamline the job application process for both applicant and recruiter.",
+    "image": "jobs4you",
+    "links": {
+      "view": "https://jobpulse-frontend.onrender.com/",
+      "code": "https://github.com/Dhruvpandey08/Jobs4You"
+    }
+  },
+  {
     "name": "Retail-Revolutionizer",
     "desc": "Retail Revolutionizer is a web application designed to address the challenges faced by shopkeepers in managing products in their shops.",
     "image": "retailrev",
