@@ -34,5 +34,14 @@
       "view": "https://dhruvpandey08.github.io/To-Do-APP/",
       "code": "https://github.com/Dhruvpandey08/To-Do-APP"
     }
+  },
+  {
+    "name": "TalkSphere",
+    "desc": "TalkSphere is a real-time audio chat application built using WebRTC technology, designed for seamless, low-latency communication between users.",
+    "image": "talk1",
+    "links": {
+      "view": "https://talksphere-fe.onrender.com/",
+      "code": "https://github.com/Dhruvpandey08/TalkSphere"
+    }
   }
 ] 
