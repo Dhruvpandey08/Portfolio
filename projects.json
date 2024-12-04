@@ -43,5 +43,14 @@
       "view": "https://talksphere-fe.onrender.com/",
       "code": "https://github.com/Dhruvpandey08/TalkSphere"
     }
+  },
+  {
+    "name": "Taskify",
+    "desc": "Taskify is a simple project management application for the users who want to keep track of their project and collaborate with the users.",
+    "image": "taskify",
+    "links": {
+      "view": "https://master.dhfms5z9cek0j.amplifyapp.com/",
+      "code": "https://github.com/Dhruvpandey08/Project-Management-Taskify"
+    }
   }
 ] 

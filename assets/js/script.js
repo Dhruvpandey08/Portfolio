@@ -105,7 +105,7 @@ function showSkills(skills) {
 function showProjects(projects) {
     let projectsContainer = document.querySelector("#work .box-container");
     let projectHTML = "";
-    projects.slice(0, 5).filter(project => project.category != "android").forEach(project => {
+    projects.slice(0, 6).filter(project => project.category != "android").forEach(project => {
         projectHTML += `
         <div class="box tilt">
       <img src="/assets/images/projects/${project.image}.JPG" alt="project" />
