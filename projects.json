@@ -46,7 +46,7 @@
   },
   {
     "name": "Taskify",
-    "desc": "Taskify is a simple project management application for the users who want to keep track of their project and collaborate with the users.",
+    "desc": "Taskify is an application that allows bug tracking, issue tracking and agile project management for the users.",
     "image": "taskify",
     "links": {
       "view": "https://master.dhfms5z9cek0j.amplifyapp.com/",
